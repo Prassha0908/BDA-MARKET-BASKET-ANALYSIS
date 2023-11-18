@@ -59,7 +59,7 @@ This project is a testament to the spirit of collaboration and innovation. We ex
   - **JYOTHI SHRI S** - [Email for details](mailto:jyothishris.21aid@kongu.edu)
   - **SANJAY R** - [Email for details](mailto:sanjayr.21aid@kongu.edu)
     
-  - **Mentor : Kanimozhi Selvi C S** - [Email for details](mailto:kanimozhi.cse@kongu.edu)
+    - **Mentor : Kanimozhi Selvi C S** - [Email for details](mailto:kanimozhi.cse@kongu.edu)
     
 
 
