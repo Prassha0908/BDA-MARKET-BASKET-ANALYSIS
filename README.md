@@ -1,13 +1,13 @@
 <div align="center">
 
-# MASTER BASKET ANALYSIS
+# 🎇 MASTER BASKET ANALYSIS 🎇
 
 
 "AI unveils shopping insights: decoding product connections."
 
 </div>
 
-## Table of Contents 
+## Table of Contents 📜
 
 - [About the Project](#about-the-project-)
 - [Features](#features-)
@@ -17,11 +17,11 @@
 - [Conclusion](#conclusion-)
 
 
-## About the Project 
+## About the Project 📖
 
 Market Basket Analysis is a mini-project based on product recommendation, designed and developed for Big Data Analytics course as mini project and also for various competitions and hackathons.  This project discover how AI decodes the relationships between products, providing valuable insights into what items customers frequently purchase together.
 
-## Features 
+## Features 🔍
 
 -  **PRODUCT RECOMMENDATION** : Enhance user experience with our AI-based Product Recommendation System.
 -  **Rich Dataset** : Train your models with our extensive collection of items that are present in customer's basket.
@@ -76,6 +76,11 @@ Contribute to this project :
 
 - Kudos to the open-source contributors who inspire us daily.
 - Special thanks to all the hands that have contributed to making this project what it is.
+
+
+## License
+This Power BI Cryptocurrency Analysis project is licensed under the MIT License.
+
 
 ## Conclusion 
   In summary, our GitHub repository on Market Basket Analysis provides a comprehensive tool for unraveling consumer behavior patterns. This project empowers businesses to gain valuable insights into product associations, enabling informed decision-making and a deeper understanding of customer preferences in the dynamic landscape of retail and commerce.
